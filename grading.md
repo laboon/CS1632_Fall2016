@@ -7,10 +7,12 @@ professional quality on ALL aspects of your testing, including:
 2. No commented-out code, UNLESS there is a specified reason for it, e.g.:
    * `// This doesn't work, but this is what I would do if I could...`
    * `// Uncomment the following line to run additional long-running tests)`
-
 3. No inconsistent spacing/tabs/brace settings.  I don't care which you use, but make
     it consistent.
 4. Good variable names, good coding style in general.
+5. Shows proper knowledge of testing technique, theory, and terminology (checks for edge and base cases, boundary values, etc.)
+
+## Examples:
 
 * **Perfect Score** - Absolutely no problems, working on a challenging system with excellent
    test coverage.  Tests and kinds of tests make perfect sense and are described well.

@@ -3,10 +3,11 @@ Software Quality Assurance
 
 ## Course Information
 
-**Taught by:** Bill Laboon (bill.laboon@pitt.edu)  
-**Professor's Office Hours:** SENSQ 6305
-* Tuesday and Thursday, 2:30 PM - 4:00 PM
-* or by appointment.  
+**Taught by:** Bill Laboon (bill.laboon@pitt.edu)
+
+**Professor's Office Hours:** SENSQ 6305  
+  * Wednesday, 1:30 PM - 4:30 PM
+  * or by appointment.  
 
 **Class Time:** Tue / Thu 9:30 AM - 10:50 AM
 
@@ -73,9 +74,7 @@ Score  | Grade
 
 All groups are expected to do their own work on the group projects, and students to do entirely their own work on the other projects.  You are more than welcome to ask questions of other groups, the Internet, or other colleagues.  However, this does not excuse wholesale copying or viewing of code or other work, which will be considered plagiarism and dealth with accordingly.
 
-Any student caught collaborating or cheating on an exam will
-automatically receive a 0 (zero) for that exam, and may be penalized
-more harshly based on University of Pittsburgh academic policy.
+Any student caught collaborating or cheating on an exam will automatically receive a 0 (zero) for that exam, and may be penalized more harshly based on University of Pittsburgh academic policy.
 
 Assignments should be committed and pushed to GitHub or GitLab to _a private repository_ and shared with the TA and me by the beginning of class on the due date.  Write-ups are due at the beginning of class and must be given to me in person.  Late assignments will not be accepted absent of extraordinary circumstances.
 

@@ -21,11 +21,11 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
 ## WEEK 3 (Week of 12 Sep)
 
-* Breaking Software
-  * READING: AFIST, Chapter 7
-
 * Test Plans
   * READING: AFIST, Chapters 6 and 8
+
+* Breaking Software
+  * READING: AFIST, Chapter 7
 
 ## WEEK 4 (Week of 19 Sep)
 
