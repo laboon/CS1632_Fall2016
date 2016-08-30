@@ -72,7 +72,7 @@ Score  | Grade
 63.99-61.00  | D-
 60.99-0.00   | F
 
-All groups are expected to do their own work on the group projects, and students to do entirely their own work on the other projects.  You are more than welcome to ask questions of other groups, the Internet, or other colleagues.  However, this does not excuse wholesale copying or viewing of code or other work, which will be considered plagiarism and dealth with accordingly.
+All groups are expected to do their own work on the group projects, and students to do entirely their own work on the other projects.  Projects will be analyzed with the Stanford _moss_ system to detect unauthorized collaboration between groups or individuals.
 
 Any student caught collaborating or cheating on an exam will automatically receive a 0 (zero) for that exam, and may be penalized more harshly based on University of Pittsburgh academic policy.
 
@@ -100,7 +100,7 @@ without clearing it first with the instructor will result in a 0
 ## Project Details
 
 * **Deliverable 1:** A test plan and traceability matrix for a system.
-* **Deliverable 2:** Unit tests for a console-based application.
+* **Deliverable 2:** Unit tests for a console-based application written by the student.
 * **Deliverable 3:** Automated system-level tests for a web application.
 * **Deliverable 4:** Performance testing and improvement of an application.
 * **Deliverable 5:** Rewriting a system based on the results of static analysis.
