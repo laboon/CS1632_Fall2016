@@ -88,7 +88,8 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 * Static Analysis, Part 2
 
 * Developing a Testing Strategy
-
+  * Testing Strategy Exercise
+  
 ## WEEK 13 (Week of 21 Nov)
 
 * Security Testing
