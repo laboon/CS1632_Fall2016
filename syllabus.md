@@ -61,52 +61,52 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
 * NO CLASS OCT 18
 
-* Behavior-Driven Development
+* Web Testing with Selenium, Part 1
 
 ## WEEK 9 (Week of 24 Oct)
 
-* Web Testing with Selenium, Part 1
+* Web Testing with Selenium, Part 2
 
 * Guest Lecture (TBD)
 
 ## WEEK 10 (Week of 31 Oct)
 
-* Web Testing with Selenium, Part 2
+* Performance Testing Part 1
+  * READING: AFIST, Chapter 19
 
-* Web Testing Exercise
+* Performance Testing Part 2
 
 ## WEEK 11 (Week of 7 Nov)
 
 * Stochastic and Property-Based Testing
   * READING: AFIST, Chapter 18
 
-* Performance Testing Part 1
-  * READING: AFIST, Chapter 19
+* Static Analysis, Part 1
 
 ## WEEK 12 (Week of 14 Nov)
 
-* Performance Testing Part 2
+* Static Analysis, Part 2
 
-* Performance Exercise
+* Developing a Testing Strategy
 
 ## WEEK 13 (Week of 21 Nov)
 
-* Developing a Testing Strategy
+* Security Testing
+  * READING: AFIST, Chapter 20
 
 * THANKSGIVING BREAK - NO CLASS
 
 ## WEEK 14 (Week of 28 Nov)
 
+* Security Exercise
+
 * Interacting With Stakeholders
   * READING: AFIST, Chapter 21
   * Stakeholder Interaction Exercise
 
-* Security Testing
-  * READING: AFIST, Chapter 20
-
 ## WEEK 15 (Week of 5 Dec)
 
-* Security Exercise
+* Behavior-Driven Development
 
 * MIDTERM 2
 
