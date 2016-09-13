@@ -14,7 +14,7 @@ Requirements:
 
 7. If an invalid value is entered for the seed, the system shall ignore it and assume that no argument was passed in (that is, it will act as though no seed were entered).
 
-8. The TA shall move a random direction at each iteration.  If the TA attempts to move to a room which does not exist, the user shall be informed that they hear the TA bump into a wall.  Professor Wumpus and the TA shall not move.
+8. The TA shall move a random direction at each iteration.  If the TA attempts to move to a room which does not exist, the user shall be informed that they hear the TA bump into a wall.  Professor Wumpus shall not move.
 
 9. If the Student has found the Assignment and encountered Professor Wumpus, the player shall win.  If the Student has encountered Professor Wumpus but has not found the Assignment, the player shall lose.  In either case, after the scenario occurs, the program shall end.
 
