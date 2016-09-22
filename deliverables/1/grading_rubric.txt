@@ -56,8 +56,5 @@ Include expected/observed behavior:  ____ / 10
 Clearly written:                     ____ / 10
   * No typos, misspellings, etc.
   * Reader can understand issue
-  
-************************************************
-
 
 Total:                               ____ / 100
