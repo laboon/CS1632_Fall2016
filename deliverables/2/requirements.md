@@ -8,9 +8,9 @@ FUN-AVENUES. The city shall have two one-way avenues, Fourth Ave and Fifth Ave. 
 
 FUN-STREETS. The city shall have two two-way streets, Bill St. and Phil St.  Bill St. shall connect Hotel and Library.  Phil St. shall connect Diner and Coffee.
 
-FUN-SIX-DRIVERS. Six drivers, numbered 1 through 6, shall traverse the city, one after the other.
+FUN-FIVE-DRIVERS. Five drivers, numbered 1 through 5, shall traverse the city, one after the other.
 
-FUN-COFFEE-COUNT. At the end of each drive, the simulation shall print out how many times that driver visited Coffee.  The format shall be "Driver `n` got `x` cups of coffee", where `n` is the driver number (1 through 6) and `x` is the number of times that the driver visited the Coffee location.  If a driver starts on the Coffee location, this counts as a time visiting the coffee shop.
+FUN-COFFEE-COUNT. At the end of each drive, the simulation shall print out how many times that driver visited Coffee.  The format shall be "Driver `n` got `x` cup(s) of coffee.", where `n` is the driver number (1 through 6) and `x` is the number of times that the driver visited the Coffee location.  If a driver starts on the Coffee location, this counts as a time visiting the coffee shop.  This shall be the last line printed out for each iteration.
 
 FUN-START-LOC. A driver may start in any of the four locations listed in FUN-CITY-LOCS.  Drivers may not start outside of the city.
 

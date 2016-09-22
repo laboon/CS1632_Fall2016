@@ -6,7 +6,7 @@ DUE 11 OCT 2016
 
 For this assignment, you (not a group) will write code and unit tests for CitySim9003.
 
-Requirements for this program are in the requirements.txt file in this directory.  Sample output is also provided for several runs of the program.  In case of ambiguity, please see the sample output as an example of what to display and how the system should work.
+Requirements for this program are in the requirements.txt file in this directory.  Sample output is also provided for several runs of the program.  In case of ambiguity, please see the sample output as an example of what to display and how the system should work.  Note that the sample output shows specific routes for given seeds - you do NOT have to have your seeds create the routes.  They are purely for demonstration purposes.
 
 All code and tests should be on GitHub or GitLab in a private repository accessible to me.
 
@@ -28,7 +28,9 @@ At least three (3) unit tests should use stubbing of methods.
 
 I expect unit tests for AT LEAST each public method that returns a value (excluding the main method), using a variety of assertions and looking at different failure modes and edge cases.  Keep in mind some of the things we learned when doing manual testing; you should be cognizant of equivalence classes, boundary values, etc. and focus on them.
 
-The program should use appropriate object-oriented design.
+The program should use appropriate object-oriented design.  Think of what objects could possibly exist to describe this world, and what methods they should Do not attempt to do this entirely with static methods and variables, without classes, etc.  It is possible but will make testing more difficult!
+
+If you are not familiar with seeds for random number generators, recall that in the absence of external input, a computer can only generate data deterministically.  This seed will act as our "external input".  Please review the Java Random API for more details to ensure that you are using seeds correctly - https://docs.oracle.com/javase/7/docs/api/java/util/Random.html.  You may use Random or a different random number generator if you prefer.  However, running the program twice with the same seed should always produce the same output.
 
 Before each test, add some comments (two or three sentences, on average) explaining what the test is checking.  For example...
 
