@@ -1,6 +1,6 @@
 # CS 1632 - Software Quality Assurance
-Fall Semester 2016
-DUE 11 OCT 2016
+Fall Semester 2016  
+DUE 11 OCT 2016  
 
 ## Deliverable 2
 
@@ -13,8 +13,10 @@ All code and tests should be on GitHub or GitLab in a private repository accessi
 ## Format
 You should turn in a title page with:
 * Your name
-* The URL of your code and tests on GitHub or a similar repository
+* The URL of your code and tests on GitHub or GitLab
 * The title "CS 1632 - DELIVERABLE 2: Unit Testing CitySim9003"
+
+ENSURE THAT THE TA AND I ARE ADDED AS A COLLABORATOR AND CAN CLONE YOUR REPOSITORY!  My username is laboon on both GitHub and GitLab.  You will lose an automatic 10 points if I cannot access your repository.
 
 Add a short ( < 1 page ) description of issues you faced when writing this code and tests.  If any tests you wrote fail, they should be included here, along with why you think that they are failing.
 
