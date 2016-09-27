@@ -58,7 +58,7 @@ Before each test, add some comments (two or three sentences, on average) explain
 ## Grading
 I remind you that grammar and good code count as well as functionality.  By good code, I mean -
 
-No commented-out code (unless there's an EXPLICIT reason, e.g.
+No commented-out code unless there's an EXPLICIT reason, e.g.
 ```java
 // I couldn't get this assertion to work, but instead used a different assertion, below
 // assertEquals(foo, 3);
