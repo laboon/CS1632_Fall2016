@@ -63,7 +63,7 @@ You may assume that customers always return cats after one day.  You may make up
 
 You should create a collection of Cat objects and Customer objects, along with a main RentACat class.  The Cat class should have at least two methods (rent() and return()), along with relevant attributes which allow you to display the data above (e.g. name, cost, etc.).  The Cat class should also keep track of who, if anybody, has rented that particular cat.
 
-You should also write appropriate unit tests for each method.  For each public method, write at least two unit tests.
+You should also write appropriate unit tests for each public method.  For each public method, write at least two unit tests.  The only exception is `public static void main`.  Testing this directly would be like testing the system as a whole, which is not the goal of unit testing.
 
 You should use test doubles/mocks for any references to classes other than the one under test.
 
