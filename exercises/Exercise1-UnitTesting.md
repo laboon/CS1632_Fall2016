@@ -61,7 +61,7 @@ Closing up shop for the day!
 
 You may assume that customers always return cats after one day.  You may make up whatever names of cats/customers you like.  You may have as many or as a few cats and customers as you like, as long as there are at least two of each.
 
-You should create a collection of Cat objects and Customer objects, along with a main RentACat class.  The Cat class should have at least two methods (rent() and return()), along with relevant attributes which allow you to display the data above (e.g. name, cost, etc.).  The Cat class should also keep track of who, if anybody, has rented that particular cat.
+You should create a collection of Cat objects and Customer objects, along with a main RentACat class.  The Cat class should have at least two methods (rent() and return()), along with relevant attributes which allow you to display the data above (e.g. name, cost, etc.).  The Cat class should also keep track of who, if anybody, has rented that particular cat.  I'd also recommend adding a .toString() method which returns a String representation of the cat including ID, name, and rental rate.
 
 You should also write appropriate unit tests for each public method.  For each public method, write at least two unit tests.  The only exception is `public static void main`.  Testing this directly would be like testing the system as a whole, which is not the goal of unit testing.
 
