@@ -110,7 +110,27 @@ public void testChangeCatName() {
    assertEquals(c.getName(), newName);
 }
 ```
-3. If you are going to have to double an object inside a method, be sure to allow it to be passed in as an argument!  This is called _dependency injection_.  We will discuss further in the lecture __Writing Testable Code__.
+3. If you are going to have to double an object inside a method, be sure to allow it to be passed in as an argument!  This is called _dependency injection_.  We will discuss further in the lecture __Writing Testable Code__.  Example:
+```
+// BAD - how can we double Duck?
+public int lotsOfQuacks() {
+    Duck d = new Duck();
+    int numQuacks = 0;
+    for (int j = 0; j < 100; j++) {
+        numQuacks += d.quack();
+    }
+    return numQuacks;
+}
+
+// BETTER - dependency injection
+public int lotsOfQuacks(Duck d) {
+    int numQuacks = 0;
+    for (int j = 0; j < 100; j++) {
+        numQuacks += d.quack();
+    }
+    return numQuacks;
+}
+```
 4. Try to ensure that you check not only for "happy path" cases but also edge cases.
 5. Tests are usually grouped into whichever classes they are testing, and have a filename that has `Test` appended to the name.  For example, Foo.java would be tested by FooTest.java.
 6. Testing println's or other output is difficult - try to have methods return Strings which are easier to test.  It is possible to test for I/O but it requires some extra steps - see Chapter 14, Section 6 of the textbook for instructions.
