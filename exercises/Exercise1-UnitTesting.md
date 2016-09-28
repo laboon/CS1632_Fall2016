@@ -59,9 +59,9 @@ Closing up shop for the day!
 ```
 
 
-You may assume that customers always return cats after one day.  You may make up whatever names of cats/customers you like.
+You may assume that customers always return cats after one day.  You may make up whatever names of cats/customers you like.  You may have as many or as a few cats and customers as you like, as long as there are at least two of each.
 
-You should create a collection of Cat objects and Customer objects, along with a main RentACat class.  The Cat class should have at least two methods (rent() and return()), along with relevant attributes which allow you to display the data above (e.g. name, cost, etc.).
+You should create a collection of Cat objects and Customer objects, along with a main RentACat class.  The Cat class should have at least two methods (rent() and return()), along with relevant attributes which allow you to display the data above (e.g. name, cost, etc.).  The Cat class should also keep track of who, if anybody, has rented that particular cat.
 
 You should also write appropriate unit tests for each method.  For each public method, write at least two unit tests.
 
@@ -76,8 +76,6 @@ Be sure to check to see if a cat ID or customer ID exists!  Our customer service
 If you do this in an IDE such as Eclipse, or with a build tool like Gradle, this can be handled automatically.  Otherwise you need to create your own test runner.
 
 First, we need to create a test runner.  I have created a simple one (TestRunner.java) for you, along with some very simple unit test class files.  They are located in the CommandLineJunit subdirectory under the exercises subdirectory in the class repo.  This will also include the two jar files you will need to use junit.
-
-
 
 To run it, you will need to compile it and ensure that the junit and hamcrest jars are in your classpath.
 
