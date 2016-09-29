@@ -73,7 +73,7 @@ Be sure to check to see if a cat ID or customer ID exists!  Our customer service
 
 ## Running Unit Tests
 
-If you do this in an IDE such as Eclipse, or with a build tool like Gradle, this can be handled automatically.  Otherwise you need to create your own test runner.
+If you do this in an IDE such as Eclipse, or with a build tool like Gradle, this can be handled automatically.  HOWEVER, please do not do this!  I want you to realize what is happening "behind the scenes".
 
 First, we need to create a test runner.  I have created a simple one (TestRunner.java) for you, along with some very simple unit test class files.  They are located in the CommandLineJunit subdirectory under the exercises subdirectory in the class repo.  This will also include the two jar files you will need to use junit.
 
