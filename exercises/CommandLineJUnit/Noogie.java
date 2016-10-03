@@ -47,4 +47,32 @@ public class Noogie {
 	}
     }
 
+    public int playWithBadger(Badger b) {
+	int toReturn = 0;
+	try {
+	    b.play();
+	} catch (ArithmeticException aex) {
+	    toReturn = 1;
+	}
+	return toReturn;
+    }
+    
+    public int simulateBadgers(Badger[] b) {
+	int totalFlerbos = 0;
+	for (int j = 0; j < b.length; j++) {
+	    totalFlerbos += b[j].getNumFlerbos();
+	}
+	return totalFlerbos + numCats;
+    }
+    
+    public static void main(String[] args) {
+	System.out.println("Making 10 badgers!");
+	Badger[] badgers = new Badger[10];
+	for (int j = 0; j < 10; j++) {
+	    badgers[j] = new Badger(j);
+	    System.out.println("Badger made with " + badgers[j].getNumFlerbos() + " flerbos.");
+	}
+	
+    }
+    
 }
