@@ -190,6 +190,9 @@ public class NoogieTest {
     	assertEquals(200, val);	
     }
 
+    // Combine tests to check many cats, and many badgers, all
+    // with many flerbos.
+    
     @Test
     public void testBadgerSimManyBadgersManyCatsManyFlerbos() {
     	Noogie n = new Noogie(100);
