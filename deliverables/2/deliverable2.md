@@ -20,7 +20,7 @@ ENSURE THAT THE ADAM (THE TA) AND I ARE ADDED AS A COLLABORATOR AND CAN CLONE YO
 
 Add a short ( < 1 page ) description of issues you faced when writing this code and tests.  If any tests you wrote fail, they should be included here, along with why you think that they are failing.
 
-After this, ON A SEPARATE PAGE, include a screen shot of the executed unit tests.  Note that not all tests have to pass!  However, if a test doesn't pass, it should be included in the concerns section above.
+After this, ON A SEPARATE PAGE, include a screen shot of the executed unit tests.    If a test doesn't pass, it should be included in the concerns section above.  Ideally, for a perfect grade, all tests should be green (passing).  However, if you have what you think is a valid test and it is not passing, I would prefer that you include a note (and perhaps comment out the tests) rather than just deleting it.  Knowing that a defect exists and reporting it is much better than having it discovered by the customer (me)!
 
 There is no need to print out the code.  It should be on GitHub (or GitLab) BY THE BEGINNING OF CLASS.
 
