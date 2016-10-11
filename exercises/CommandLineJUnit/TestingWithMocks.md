@@ -1,4 +1,6 @@
 1. Ensure you have downloaded both the Mockito and Objenesys jars (now included in the repo).
-2. Compile with the following command: `javac -cp ./junit-4.12.jar:./hamcrest-core-1.3.jar:./mockito-core-1.10.19.jar:./objenesis-2.4.jar *.java`.  Remember to replace :'s with ;'s if you are using Windows.  If you are using Windows 7 you may need to put the classpath string (everywhere from the first `.` to the last `.jar`) in double quotes.
+2. Compile with the following command: `javac -cp ./junit-4.12.jar:./hamcrest-core-1.3.jar:./mockito-core-1.10.19.jar:./objenesis-2.4.jar *.java`.  Remember to replace :'s with ;'s if you are using Windows.  If you are using Windows 7 you may need to put the classpath string (everywhere from the first `.` to the last `.jar`) in double quotes.  Also note that you must ensure that your paths do not include any ~s, wildcards, or other shell-expanding characters (if in doubt, make absolute paths).  javac will not expand these.
 3. Run with the following command: `java -cp .:./junit-4.12.jar:./hamcrest-core-1.3.jar:./mockito-core-1.10.19.jar:./objenesis-2.4.jar TestRunner`  You should get no new errors (only the two that already existed).
 4. Notes - Mockito has changed its interface somewhat!  Be sure to put your verify's at the very end of your test (where you normally put assertions).  This will verify AFTER all of the calls have been made.
+
+A makefile has been included if you would like to use `make` instead of typing this out by hand.
