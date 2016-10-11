@@ -30,7 +30,7 @@ At least three (3) unit tests should use stubbing of methods.
 
 I expect unit tests for AT LEAST each public method that returns a value (excluding the main method), using a variety of assertions and looking at different failure modes and edge cases.  Keep in mind some of the things we learned when doing manual testing; you should be cognizant of equivalence classes, boundary values, etc. and focus on them.
 
-The program should use appropriate object-oriented design.  Think of what objects could possibly exist to describe this world, and what methods they should Do not attempt to do this entirely with static methods and variables, without classes, etc.  It is possible but will make testing more difficult!
+The program should use appropriate object-oriented design.  Think of what objects could possibly exist to describe this world, and what methods they should have.  Do not attempt to do this entirely with static methods and variables, without classes, etc.  It is possible but will make testing more difficult!
 
 If you are not familiar with seeds for random number generators, recall that in the absence of external input, a computer can only generate data deterministically.  This seed will act as our "external input".  Please review the Java Random API for more details to ensure that you are using seeds correctly - https://docs.oracle.com/javase/7/docs/api/java/util/Random.html.  You may use Random or a different random number generator if you prefer.  However, running the program twice with the same seed should always produce the same output.
 
