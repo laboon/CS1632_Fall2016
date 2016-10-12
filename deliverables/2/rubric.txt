@@ -1,0 +1,56 @@
+Summary (10%):                                              _____ / 10
+  * No typos or grammatical errors (up to -5)
+  * Describe at least one issue
+
+Screenshot of executed unit tests (10%):                    _____ / 10
+
+Program code (40%):
+
+Proper argument conditions (ceases execution cleanly
+if incorrect type or wrong number) :                        _____ / 10
+  * Should not run with 0 arguments ( -3 )
+  * Should not run with >1 arguments ( -3 )
+  * Does not crash w/ invalid input (-4 )
+
+Coffee:                                                     _____ / 5
+  * Shows correct number of coffees obtained (-5 if not)
+  * Shows 0 coffees if no coffees that round (-2 if not)
+
+Seed accepted (reproducible w/ same seed):                  _____ / 5
+  * Multiple times w/ same seed, same output (-5 if not)
+  * Running w/ diff seeds means diff output (-5 if not)
+
+Drivers follow valid paths:                                 _____ / 10
+  * Cars always go in proper directions down streets (-5)
+  * Cars always end up going to Philadelphia or Cleveland (-5)
+  
+Proper display output:                                      _____ / 5
+  * Display generally matches sample output (up to -5)
+ 
+Good object-oriented style:                                 _____ / 5
+  * Classes with proper methods representing objects (up to -5)
+
+Test Code (40%):
+
+Public methods tested:                                      _____ / 15
+  * All public methods tested
+
+Edge cases tested:                                          _____ / 5
+  * At least three true edge cases checked (0: -5, 1: -4, 2: -3)
+
+At least 3 doubles used:                                    _____ / 5
+  * Proper doubles / or mocks used (0: -5, 1: -4, 2: -3)
+
+At least 3 stubs used:                                      _____ / 5
+  * Proper stubs used (0: -5, 1: -4, 2: -3)
+
+Good style:                                                 _____ / 10
+  * All tests properly commented with descriptions (up to -5)
+  * No gratuitously ugly, superfluous, or commented code (up to -5)
+
+-----
+
+Total:                                                      _____ / 100
+
+
+
