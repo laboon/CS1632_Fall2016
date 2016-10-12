@@ -50,6 +50,10 @@ Good style:                                                 _____ / 10
 
 -----
 
+Submission issues (-10) or other adjustments:               _____
+  * -10 if repository is not private 
+  * -10 if both collaborators not invited
+
 Total:                                                      _____ / 100
 
 
