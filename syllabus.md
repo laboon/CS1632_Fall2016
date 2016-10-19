@@ -67,7 +67,7 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
 * Web Testing with Selenium, Part 2
 
-* Guest Lecture (TBD)
+* NO CLASS OCT 27
 
 ## WEEK 10 (Week of 31 Oct)
 
