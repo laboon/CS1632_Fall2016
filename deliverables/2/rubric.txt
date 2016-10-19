@@ -33,7 +33,9 @@ Good object-oriented style:                                 _____ / 5
 Test Code (40%):
 
 Public methods tested:                                      _____ / 15
-  * All public methods tested
+  * All public methods tested (-3 for each one that is not)
+  * All tests must have assertions (-3 for each one that is not)
+  * All tests must be annotated w/ @Test (-3 for each one that is not)
 
 Edge cases tested:                                          _____ / 5
   * At least three true edge cases checked (0: -5, 1: -4, 2: -3)
@@ -45,8 +47,10 @@ At least 3 stubs used:                                      _____ / 5
   * Proper stubs used (0: -5, 1: -4, 2: -3)
 
 Good style:                                                 _____ / 10
-  * All tests properly commented with descriptions (up to -5)
+  * All tests properly commented with descriptions (-3 each if not, up to -9)
   * No gratuitously ugly, superfluous, or commented code (up to -5)
+
+If tests cannot run, 20 points for this section MAXIMUM.
 
 -----
 
