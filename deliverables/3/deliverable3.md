@@ -103,10 +103,8 @@ Alternatively, "ctrl+alt+s" while in the Firefox window should also bring up the
 ## Grading
 * Summary and Testing concerns - 10% 
 * Screen shot or printout of test results - 10%
-* User Stories and Scenarios, written in the proper format - 30%
+* Proper commenting - 30%
 * JUnit Tests - 50%
-
-Reminder that all code (project under test AND test code) should be available to me.
 
 Please feel free to email me or come to office hours to discuss any problems you have. 
  
