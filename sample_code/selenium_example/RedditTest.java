@@ -97,7 +97,7 @@ public class RedditTest {
 		
 		// Enter username "meow", password "meow"
 		
-		driver.findElement(By.name("user")).sendKeys("meow");
+		driver.findElement(By.name("user")).sendKeys("dasbill");
 		driver.findElement(By.name("passwd")).sendKeys("meow");
 		
 		// Look for the submit button (in the login div) and click
