@@ -29,7 +29,7 @@ After this, there should be a printout or screen shot of the test execution resu
 
 There is no need to print out the code.  It should be shared with me and Adam (usernames laboon and greenmanspirit, respectively) on GitHub BY THE BEGINNING OF CLASS.
 
-The JUnit tests shall have a description (a few sentences at most) of they are testing written in the comments above the particular test. See RedditTest.java in the sample_code directory for an example.
+The JUnit tests shall have a description (a few sentences at most) of what they are testing written in the comments above the particular test. See RedditTest.java in the sample_code directory for an example.
 
 Remember these are USER-level systems tests; they should discuss things in a way that an intelligent user of the software would understand.  Remember the differences between scenario tests and unit tests!
 
