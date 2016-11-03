@@ -35,7 +35,7 @@ Output for a given input should be EXACTLY the same as the initial output.  Samp
 
 In case of ambiguity in the requirements, the sample_runs.txt file shall be considered the correct implementation.
 
-If you encounter an infinite loop (where, if the algorithm is implemented correctly, the first monkey NEVER gets the banana), you will receive a sizable  amount of extra credit, assuming you let me know the initial number you entered.
+If you encounter an infinite loop (where, if the algorithm is implemented correctly, the first monkey NEVER gets the banana), you will receive a __sizable__ amount of extra credit, assuming you let me know the initial number you entered.
 
 ## Format
 Every assignment should have a title page with:
