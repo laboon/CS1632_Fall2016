@@ -15,9 +15,11 @@ Screen shot shows test conclusion:                  ______ / 5
 * Proper commenting - 30%
 
 Every test has a description                        ______ / 10
+  * -3 for each test missing description
 
 Descriptions succinctly explain what it is testing  ______ / 10
 from a user perspective (not code perspective)
+  * -2 for each poorly-written or incorrect description
 
 Good comments where necessary in test itself        ______ / 10
 
@@ -26,7 +28,7 @@ Good comments where necessary in test itself        ______ / 10
 If tests do not run, maximum of 10 points in this section!
 
 Tests hit all three major functional areas          _____ / 10
-   * Parse, Tokenize, Compile
+   * Parse, Tokenize, Compile (-5 for each)
    
 Tests are well-written and understandable           _____ / 10
 (proper variable names, indentation, etc)
@@ -40,7 +42,7 @@ Tests written to properly check pages               _____ / 30
      string compare (-5 each time this is done)
    * At least 15 tests (-5 for each one less than 15)
    * No more than 25 tests (-3 for each one over 25)
-   * Tests should not have more than three assertion
+   * Tests should not have more than three assertions
      unless they are specific and commented why (-2 each)
    * All tests must have at least one valid assertion
      (-4 for each test missing an assertion)
