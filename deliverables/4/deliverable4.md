@@ -13,7 +13,7 @@ For this assignment, you and a partner will profile some monkey simulation softw
 4. Profiling (after) showing that your rewrite helped make your method more performant
 5. Finally, running the entire program with time (or measure-command for Windows) to show that total time has decreased
 
-Code will be on Github (https://github.com/laboon/MonkeySim).  Please _fork_ it and create your own repository.  
+Code will be on Github (https://github.com/laboon/MonkeySim).  Please _duplicate_ (https://help.github.com/articles/duplicating-a-repository/) it and create your own repository.  
 
 This code runs MonkeySim, which simulates a group of monkeys throwing a banana back around until it gets to the first monkey.  It accepts one argument, which states which monkey has the banana initially.
 
