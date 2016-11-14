@@ -1,0 +1,142 @@
+$ java MonkeySim 100
+//Round 1: Threw banana from Monkey (#100 / ID 223592) to Monkey (#50 / ID 223542)
+//Round 2: Threw banana from Monkey (#50 / ID 223542) to Monkey (#25 / ID 223517)
+//Round 3: Threw banana from Monkey (#25 / ID 223517) to Monkey (#76 / ID 223568)
+//Round 4: Threw banana from Monkey (#76 / ID 223568) to Monkey (#38 / ID 223530)
+//Round 5: Threw banana from Monkey (#38 / ID 223530) to Monkey (#19 / ID 223511)
+//Round 6: Threw banana from Monkey (#19 / ID 223511) to Monkey (#58 / ID 223550)
+//Round 7: Threw banana from Monkey (#58 / ID 223550) to Monkey (#29 / ID 223521)
+//Round 8: Threw banana from Monkey (#29 / ID 223521) to Monkey (#88 / ID 223580)
+//Round 9: Threw banana from Monkey (#88 / ID 223580) to Monkey (#44 / ID 223536)
+//Round 10: Threw banana from Monkey (#44 / ID 223536) to Monkey (#22 / ID 223514)
+//Round 11: Threw banana from Monkey (#22 / ID 223514) to Monkey (#11 / ID 223503)
+//Round 12: Threw banana from Monkey (#11 / ID 223503) to Monkey (#34 / ID 223526)
+//Round 13: Threw banana from Monkey (#34 / ID 223526) to Monkey (#17 / ID 223509)
+//Round 14: Threw banana from Monkey (#17 / ID 223509) to Monkey (#52 / ID 223544)
+//Round 15: Threw banana from Monkey (#52 / ID 223544) to Monkey (#26 / ID 223518)
+//Round 16: Threw banana from Monkey (#26 / ID 223518) to Monkey (#13 / ID 223505)
+//Round 17: Threw banana from Monkey (#13 / ID 223505) to Monkey (#40 / ID 223532)
+//Round 18: Threw banana from Monkey (#40 / ID 223532) to Monkey (#20 / ID 223512)
+//Round 19: Threw banana from Monkey (#20 / ID 223512) to Monkey (#10 / ID 223502)
+//Round 20: Threw banana from Monkey (#10 / ID 223502) to Monkey (#5 / ID 223497)
+//Round 21: Threw banana from Monkey (#5 / ID 223497) to Monkey (#16 / ID 223508)
+//Round 22: Threw banana from Monkey (#16 / ID 223508) to Monkey (#8 / ID 223500)
+//Round 23: Threw banana from Monkey (#8 / ID 223500) to Monkey (#4 / ID 223496)
+//Round 24: Threw banana from Monkey (#4 / ID 223496) to Monkey (#2 / ID 223494)
+//Round 25: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 25 rounds.
+
+Starting again...
+
+//Round 1: Threw banana from Monkey (#100 / ID 223592) to Monkey (#97 / ID 223589)
+//Round 2: Threw banana from Monkey (#97 / ID 223589) to Monkey (#89 / ID 223581)
+//Round 3: Threw banana from Monkey (#89 / ID 223581) to Monkey (#83 / ID 223575)
+//Round 4: Threw banana from Monkey (#83 / ID 223575) to Monkey (#79 / ID 223571)
+//Round 5: Threw banana from Monkey (#79 / ID 223571) to Monkey (#73 / ID 223565)
+//Round 6: Threw banana from Monkey (#73 / ID 223565) to Monkey (#71 / ID 223563)
+//Round 7: Threw banana from Monkey (#71 / ID 223563) to Monkey (#67 / ID 223559)
+//Round 8: Threw banana from Monkey (#67 / ID 223559) to Monkey (#61 / ID 223553)
+//Round 9: Threw banana from Monkey (#61 / ID 223553) to Monkey (#59 / ID 223551)
+//Round 10: Threw banana from Monkey (#59 / ID 223551) to Monkey (#53 / ID 223545)
+//Round 11: Threw banana from Monkey (#53 / ID 223545) to Monkey (#47 / ID 223539)
+//Round 12: Threw banana from Monkey (#47 / ID 223539) to Monkey (#43 / ID 223535)
+//Round 13: Threw banana from Monkey (#43 / ID 223535) to Monkey (#41 / ID 223533)
+//Round 14: Threw banana from Monkey (#41 / ID 223533) to Monkey (#37 / ID 223529)
+//Round 15: Threw banana from Monkey (#37 / ID 223529) to Monkey (#31 / ID 223523)
+//Round 16: Threw banana from Monkey (#31 / ID 223523) to Monkey (#29 / ID 223521)
+//Round 17: Threw banana from Monkey (#29 / ID 223521) to Monkey (#23 / ID 223515)
+//Round 18: Threw banana from Monkey (#23 / ID 223515) to Monkey (#19 / ID 223511)
+//Round 19: Threw banana from Monkey (#19 / ID 223511) to Monkey (#17 / ID 223509)
+//Round 20: Threw banana from Monkey (#17 / ID 223509) to Monkey (#13 / ID 223505)
+//Round 21: Threw banana from Monkey (#13 / ID 223505) to Monkey (#11 / ID 223503)
+//Round 22: Threw banana from Monkey (#11 / ID 223503) to Monkey (#7 / ID 223499)
+//Round 23: Threw banana from Monkey (#7 / ID 223499) to Monkey (#5 / ID 223497)
+//Round 24: Threw banana from Monkey (#5 / ID 223497) to Monkey (#3 / ID 223495)
+//Round 25: Threw banana from Monkey (#3 / ID 223495) to Monkey (#2 / ID 223494)
+//Round 26: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 26 rounds.
+
+$ java MonkeySim 10
+
+//Round 1: Threw banana from Monkey (#10 / ID 223502) to Monkey (#5 / ID 223497)
+//Round 2: Threw banana from Monkey (#5 / ID 223497) to Monkey (#16 / ID 223508)
+//Round 3: Threw banana from Monkey (#16 / ID 223508) to Monkey (#8 / ID 223500)
+//Round 4: Threw banana from Monkey (#8 / ID 223500) to Monkey (#4 / ID 223496)
+//Round 5: Threw banana from Monkey (#4 / ID 223496) to Monkey (#2 / ID 223494)
+//Round 6: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 6 rounds.
+
+Starting again...
+
+//Round 1: Threw banana from Monkey (#10 / ID 223502) to Monkey (#7 / ID 223499)
+//Round 2: Threw banana from Monkey (#7 / ID 223499) to Monkey (#5 / ID 223497)
+//Round 3: Threw banana from Monkey (#5 / ID 223497) to Monkey (#3 / ID 223495)
+//Round 4: Threw banana from Monkey (#3 / ID 223495) to Monkey (#2 / ID 223494)
+//Round 5: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 5 rounds.
+
+
+$ java MonkeySim 5 
+//Round 1: Threw banana from Monkey (#5 / ID 223497) to Monkey (#16 / ID 223508)
+//Round 2: Threw banana from Monkey (#16 / ID 223508) to Monkey (#8 / ID 223500)
+//Round 3: Threw banana from Monkey (#8 / ID 223500) to Monkey (#4 / ID 223496)
+//Round 4: Threw banana from Monkey (#4 / ID 223496) to Monkey (#2 / ID 223494)
+//Round 5: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 5 rounds.
+
+Starting again...
+
+//Round 1: Threw banana from Monkey (#5 / ID 223497) to Monkey (#3 / ID 223495)
+//Round 2: Threw banana from Monkey (#3 / ID 223495) to Monkey (#2 / ID 223494)
+//Round 3: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 3 rounds.
+
+
+$ java MonkeySim 27
+//Round 1: Threw banana from Monkey (#25 / ID 223517) to Monkey (#76 / ID 223568)
+//Round 2: Threw banana from Monkey (#76 / ID 223568) to Monkey (#38 / ID 223530)
+//Round 3: Threw banana from Monkey (#38 / ID 223530) to Monkey (#19 / ID 223511)
+//Round 4: Threw banana from Monkey (#19 / ID 223511) to Monkey (#58 / ID 223550)
+//Round 5: Threw banana from Monkey (#58 / ID 223550) to Monkey (#29 / ID 223521)
+//Round 6: Threw banana from Monkey (#29 / ID 223521) to Monkey (#88 / ID 223580)
+//Round 7: Threw banana from Monkey (#88 / ID 223580) to Monkey (#44 / ID 223536)
+//Round 8: Threw banana from Monkey (#44 / ID 223536) to Monkey (#22 / ID 223514)
+//Round 9: Threw banana from Monkey (#22 / ID 223514) to Monkey (#11 / ID 223503)
+//Round 10: Threw banana from Monkey (#11 / ID 223503) to Monkey (#34 / ID 223526)
+//Round 11: Threw banana from Monkey (#34 / ID 223526) to Monkey (#17 / ID 223509)
+//Round 12: Threw banana from Monkey (#17 / ID 223509) to Monkey (#52 / ID 223544)
+//Round 13: Threw banana from Monkey (#52 / ID 223544) to Monkey (#26 / ID 223518)
+//Round 14: Threw banana from Monkey (#26 / ID 223518) to Monkey (#13 / ID 223505)
+//Round 15: Threw banana from Monkey (#13 / ID 223505) to Monkey (#40 / ID 223532)
+//Round 16: Threw banana from Monkey (#40 / ID 223532) to Monkey (#20 / ID 223512)
+//Round 17: Threw banana from Monkey (#20 / ID 223512) to Monkey (#10 / ID 223502)
+//Round 18: Threw banana from Monkey (#10 / ID 223502) to Monkey (#5 / ID 223497)
+//Round 19: Threw banana from Monkey (#5 / ID 223497) to Monkey (#16 / ID 223508)
+//Round 20: Threw banana from Monkey (#16 / ID 223508) to Monkey (#8 / ID 223500)
+//Round 21: Threw banana from Monkey (#8 / ID 223500) to Monkey (#4 / ID 223496)
+//Round 22: Threw banana from Monkey (#4 / ID 223496) to Monkey (#2 / ID 223494)
+//Round 23: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 23 rounds.
+
+Starting again...
+
+//Round 1: Threw banana from Monkey (#25 / ID 223517) to Monkey (#23 / ID 223515)
+//Round 2: Threw banana from Monkey (#23 / ID 223515) to Monkey (#19 / ID 223511)
+//Round 3: Threw banana from Monkey (#19 / ID 223511) to Monkey (#17 / ID 223509)
+//Round 4: Threw banana from Monkey (#17 / ID 223509) to Monkey (#13 / ID 223505)
+//Round 5: Threw banana from Monkey (#13 / ID 223505) to Monkey (#11 / ID 223503)
+//Round 6: Threw banana from Monkey (#11 / ID 223503) to Monkey (#7 / ID 223499)
+//Round 7: Threw banana from Monkey (#7 / ID 223499) to Monkey (#5 / ID 223497)
+//Round 8: Threw banana from Monkey (#5 / ID 223497) to Monkey (#3 / ID 223495)
+//Round 9: Threw banana from Monkey (#3 / ID 223495) to Monkey (#2 / ID 223494)
+//Round 10: Threw banana from Monkey (#2 / ID 223494) to Monkey (#1 / ID 223493)
+First monkey has the banana!
+Completed in 10 rounds.
+
