@@ -25,7 +25,7 @@ java -jar ~/checkstyle/checkstyle-7.0-all.jar -c ./google_checks_modified.xml ~/
 
 You will use findbugs, as described in class, to find possible bugs in your code.  Note that findbugs has a known issue with the "Dead store to local variable" analysis.  You may ignore any errors of this kind (you can filter them out or just mentally ignore them).
 
-After you have modified the code, run checkstyle using the included google_checks_modified.xml configuration file on Sieve.java.  Fix all of the issues so that the style is in line with the modified Google code guidelines (these are actual Google Java style guidelines, btw, with only some small modifications by yours truly).  Before turning this in, your checkstyle run should show no issues.
+After you have modified the code, run checkstyle using the included google_checks_modified.xml configuration file on all of your code.  Fix all of the issues so that the style is in line with the modified Google code guidelines (these are actual Google Java style guidelines, btw, with only some small modifications by yours truly).  Before turning this in, your checkstyle run should show no issues.
 
 ## Prime Banana Passing Functionality
 
