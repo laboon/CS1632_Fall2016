@@ -98,7 +98,7 @@ First monkey has the banana!
 Completed in 3 rounds.
 
 
-$ java MonkeySim 27
+$ java MonkeySim 25
 //Round 1: Threw banana from Monkey (#25 / ID 223517) to Monkey (#76 / ID 223568)
 //Round 2: Threw banana from Monkey (#76 / ID 223568) to Monkey (#38 / ID 223530)
 //Round 3: Threw banana from Monkey (#38 / ID 223530) to Monkey (#19 / ID 223511)
