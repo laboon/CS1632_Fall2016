@@ -14,7 +14,7 @@ This project will consist of the following steps:
 1. Add code for a prime banana pass (see below for details)
 1. Use findbugs to statically analyze your code
 2. Fix *all* of the errors found by findbugs (with the exception of "Dead store to local variables" issues)
-3. Use checkstyle with the included configuration file (google_checks_modified.xml) to find any style issues with the your code code and fix them.
+3. Use checkstyle with the included configuration file (google_checks_modified.xml) to find any style issues with your code and fix them.
 
 Additionally, you may want to run findbugs and checkstyle as the FIRST steps, to see what issues they find and make sure that you do not repeat them in your code as you add the additional functionality.  This is an optional step but will probably save you time in the long run.
 
