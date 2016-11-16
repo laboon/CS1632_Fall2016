@@ -1,0 +1,28 @@
+* Summary - 10%
+
+
+
+* VisualVM (or other profiler) screenshots - 10%
+
+
+
+
+* Initial and final times included - 10%
+
+
+
+
+
+* Method choice and refactoring - 40%
+
+
+
+
+
+
+
+
+
+
+
+* Pinning Tests - 30%
