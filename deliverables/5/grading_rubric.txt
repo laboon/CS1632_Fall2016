@@ -1,0 +1,52 @@
+* Summary - 5%
+
+Summary:                                         ____ / 5
+  * -4 if no issues/details given
+  * -3 if > 1 grammatical error
+
+* Prime Banana Passing Works Correctly - 30%
+
+NOTE: If code do not compile, maximum of 5 / 30 on this
+section.  This overrides all other details below.
+
+Initial (Ulam Sequence) still works:             ____ / 10
+
+Works for n = 15 (initial non-prime):            ____ / 10
+  * 15, 13, 11, 7, 5, 3, 2, 1
+  * -5 for each monkey skipped or monkey added
+  
+Works for n = 31 (initial prime):                ____ / 10
+  * 31, 29, 23, 19, 17, 15, 13, 11, 7, 5, 3, 2, 1
+  * -5 for each monkey skipped or monkey added
+  
+* Unit tests - 25%
+
+NOTE: If tests do not compile, maximum of 5 / 25 on this
+section.  This overrides all other details below.
+
+At least eight new unit tests:                   ____ / 10
+  * -3 for each unit test less than 8
+
+Commented appropriately:                         ____ / 5
+  * -2 for each unit test without comments
+  * -1 for each poorly-commented unit test
+
+Unit tests properly check methods:               ____ / 10
+  * -3 for each test with no assertions
+  * -3 for each test which does not do what its comments say
+  * -1 for each test with > 3 assertions
+
+* Screenshots of Findbugs and checkstyle output - 10%
+
+FindBugs screenshot:                             ____ / 5
+
+checkstyle screenshot:                           ____ / 5
+
+* All issues from checkstyle and findbugs fixed - 30%
+
+No errors from checkstyle on code:               ____ / 15
+  * -3 for each error (-2 if documented but unfixed)
+
+No errors (aside from dead stores) on FindBugs:  ____ / 15
+  * -5 for each error (-3 if documented but unfixed)
+    * EXCLUDES all "Dead Local Store" errors
