@@ -1,7 +1,9 @@
 # CS 1632 Midterm 2 Study Guide
 Fall 2016
 
-Note that the second exam is _not_ cumulative, except in the sense that the topics covered in the second half of the semester depend on understanding of the more fundamental concepts taught in the beginning of the course.
+Reminder: the second midterm is December 8th!
+
+Note that the second midterm is _not_ cumulative, except in the sense that the topics covered in the second half of the semester depend on understanding of the more fundamental concepts taught in the beginning of the course.
 
 ## WEB TESTING
 * Be able to explain how you would test a web page with Selenium
