@@ -52,6 +52,11 @@ Note that the second exam is _not_ cumulative, except in the sense that the topi
 * Be able to put together a red-yellow-green template report
 * Know the one most important thing when dealing with stakeholders or other co-workers
 
+## Testing Strategy
+* Understand the testing pyramid
+* Understand common anti-patterns (ice cream cone, cupcake)
+* Given a description of a program, be able to develop your own testing strategy
+
 ## BEHAVIOR-DRIVEN DEVELOPMENT
 * Understand the differences between TDD (UTDD), ATDD, and BDD
 * Understand the differences between user stories and traditional requirements
