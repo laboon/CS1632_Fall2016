@@ -9,6 +9,6 @@ You may work by yourself or with a partner for this exercise.
 
 ### Hints
 
-1. Basic mission #7 - If you don't know basic Unix commands such as `ls`, you may want to read up on them.
+1. Basic mission #7 - If you don't know basic Unix commands such as `ls`, you may want to read up on them.  You may also want to check out the different ways to execute multiple commands in one statement on Unix (besides pipes and file redirection operators).
 2. Basic mission #8 - This mission requires knowledge of server-side includes (SSI).  You may want to review this page: https://www.owasp.org/index.php/Server-Side_Includes_(SSI)_Injection
 3. Basic mission #11 - All of these songs are by the same person, and whoever created the directories underneath this is a big fan.  Also, you may want to freshen up on why some files are hidden on Unix systems.
